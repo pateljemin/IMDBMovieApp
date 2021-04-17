@@ -1,0 +1,52 @@
+div img {
+    width: 215px;
+    height: 290px;
+    margin-bottom: 1rem;
+}
+
+.col {
+    max-width: 24% !important;
+}
+
+select#inputState {
+    margin-top: -8px;
+    margin-left: 0rem;
+    margin-right: 9px;
+}
+.image-container-list.justify-content-center.col {
+    text-align: center;
+    height: 315px;
+}
+
+.mydetails {
+    display: none;
+}
+
+.image-container-list:hover .mydetails{
+    display: block;
+}
+.image-container-list div {
+    position: relative;
+    top: -169px;
+    padding: 0px 4px 0px 7px;
+    background: #090a0ca6;
+    font-size: 14px;
+    width: 195px;
+    text-align: center;
+    margin-left: 22px;
+    font-weight: bolder;
+    margin-bottom: -8rem;
+    margin-top: 2rem;
+}
+
+.ttl-txt{
+    
+        width: 44px;
+    
+}
+.detalis-btn{
+    padding: 3px 13px;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
